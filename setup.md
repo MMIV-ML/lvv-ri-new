@@ -59,9 +59,9 @@ conda env update
 ## A note on R (tip for previous R users) - notebooks using the R kernel i also part of this work
 It is possible to run R-scripts in Jupyter notebooks (Jupyter = Julia, Python and R).
 
-If you want to continue working with R (not part of this course) you should:
+To work with R jupyter notebooks you should:
 
-Be using the latest R version (https://www.r-project.org) and the RStudio Desktop [download] for your Windows, MacOS or Linux system.
+Be using the latest R version (https://www.r-project.org) and the RStudio Desktop [[download](https://rstudio.com/products/rstudio/download)] for your Windows, MacOS or Linux system.
 Install the R kernel by opening an R console and then follow the instructions at https://irkernel.github.io/installation
 Necessary (or new) R libraries should be installed via RStudio and the corresponding R environment.
 See also [here](https://datatofish.com/r-jupyter-notebook) and [here](https://developers.refinitiv.com/en/article-catalog/article/setup-jupyter-notebook-r).
