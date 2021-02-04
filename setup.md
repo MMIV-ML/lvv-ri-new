@@ -56,7 +56,7 @@ conda env update
 ```
 
 
-## A note on R (tip for previous R users)
+## A note on R (tip for previous R users) - also part of this work
 It is possible to run R-scripts in Jupyter notebooks (Jupyter = Julia, Python and R).
 
 If you want to continue working with R (not part of this course) you should:
@@ -64,6 +64,6 @@ If you want to continue working with R (not part of this course) you should:
 Be using the latest R version (https://www.r-project.org) and the RStudio Desktop [download] for your Windows, MacOS or Linux system.
 Install the R kernel by opening an R console and then follow the instructions at https://irkernel.github.io/installation
 Necessary (or new) R libraries should be installed via RStudio and the corresponding R environment.
-See also here and here.
+See also [here](https://datatofish.com/r-jupyter-notebook) and [here](https://developers.refinitiv.com/en/article-catalog/article/setup-jupyter-notebook-r).
 
-The rpy2 interface to use R form Python is also possible (but can be a bit more messy).
+The [rpy2](https://github.com/rpy2/rpy2) interface to use R form Python is also possible - see https://github.com/arvidl/lvv-ri - but can be a bit more **messy**.
