@@ -56,7 +56,7 @@ conda env update
 ```
 
 
-## A note on R (tip for previous R users) - also part of this work
+## A note on R (tip for previous R users) - notebooks using the R kernel i also part of this work
 It is possible to run R-scripts in Jupyter notebooks (Jupyter = Julia, Python and R).
 
 If you want to continue working with R (not part of this course) you should:
