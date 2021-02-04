@@ -1,0 +1,20 @@
+name: lvv-ri-new
+dependencies:
+- python=3.8
+- pip
+- ipython
+- ipywidgets
+- jupyter
+- git
+- pip
+- numpy
+- matplotlib
+- pandas
+- scikit-learn
+- eli5
+- ipykernel
+- conda-forge::jupyter_contrib_nbextensions
+- conda-forge::jupyterlab
+- conda-forge::statsmodels
+- scipy
+- seaborn
