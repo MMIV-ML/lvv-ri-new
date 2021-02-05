@@ -1,7 +1,7 @@
 # lvv-ri-new
 
-Linear mixed effects models applied to longitudinal imaging (e.g. lateral ventricle volumes) and behaviour data (e.g. response inhibition)<br>
-This repository is slightly modified from https://github.com/arvidl/lvv-ri (to avoid `rpy2` which is problematic, using the notebooks with the R kernel instead)
+Linear mixed effects models applied to longitudinal imaging (e.g. lateral ventricle volumes) and behaviour data (e.g. response inhibition).<br>
+This repository is slightly modified from https://github.com/arvidl/lvv-ri (to avoid `rpy2` which is problematic, using pure R jupyter notebooks with the R kernel instead).
 
 #### (LVV = Lateral Ventricle Volume; RI = Response Inhibition)
 
