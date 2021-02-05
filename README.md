@@ -1,6 +1,7 @@
 # lvv-ri-new
 
 Linear mixed effects models applied to longitudinal imaging (e.g. lateral ventricle volumes) and behaviour data <br>
+This repository is slightly modified from https://github.com/arvidl/lvv-ri (to avoid `rpy2` which is problematic, using the notebooks with the R kernel instead)
 
 #### (LVV = Lateral Ventricle Volume; RI = Response Inhibition)
 
@@ -23,4 +24,4 @@ of left and right lateral ventricle volumes across the three waves were quantifi
 **Conclusion:** Major contributions
 were: (i) a longitudinal design, (ii) advanced brain imaging and segmentation procedures with longitudinal data analysis, and (iii) a data driven machine learning approach including cross-validation and permutation testing to predict behaviour, solely from the individual's brain ``signatures” (LVV trajectories).<br>
 
-#### See `setup.md` for setting up your system to run and modify lvv-ri
+#### See `setup.md` for setting up your system to run and modify lvv-ri-new
